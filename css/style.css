@@ -54,3 +54,36 @@ nav a.active,nav a:hover{
     color: aqua;
     transition: .5s;
 }
+
+section{
+    min-width: 100vh;
+    min-height: 100vh;
+    padding: 10rem 9% 2rem;
+}
+
+.home{
+    justify-content: center;
+    align-items: center;
+}
+
+.home-content h3{
+    font-size: 3.2rem;
+    font-weight: 700;
+    color: white;
+}
+
+.home-content h1{
+    font-size: 5.6rem;
+    font-weight: 700;
+    line-height: 1.3;
+    color: white;
+}
+
+.home-content p{
+    font-size: 1.6rem;
+    color: white;
+}
+
+span{
+    color: aqua;
+}
